@@ -1,16 +1,29 @@
-### Hi there 👋
+## Contributions
 
-<!--
-**hardikpatil/hardikpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Highlights
 
-Here are some ideas to get you started:
+- Coordinated and worked with the Frontend team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PantryNode
+
+### Timeline
+
+- Sprint #1 - Started Feb 27th, 2023
+  - DC - ChicoState/PantryNode/issues/26
+  - CR - ChicoState/PantryNode/pull/36
+  - DC - ChicoState/PantryNode/discussions/38
+- Sprint #2 - Started Mar 21st, 2023
+
+- Sprint #3 - Started April 4th, 2023
+
+- Sprint #4 - Started April 25th, 2023
+  - CR - ChicoState/PantryNode/pull/203
+  - CR - ChicoState/PantryNode/pull/195
+  - CR - ChicoState/PantryNode/pull/209
+
+**Key:**
+
+- **PR** - PullRequest - I wrote code.
+- **CR** - CodeReview - I reviewed someone's change.
+- **BL** - BugLogging - I filed/created a GitHub Issue.
+- **DC** - Discussion - I started a discussion or discussed a topic relevant to the project
