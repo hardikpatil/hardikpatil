@@ -1,10 +1,22 @@
+### Hello there, welcome to Hardik Patil's GitHub
+
+This profile is linked to my work as a student in CSCI 630 at CSU Chico.
+
 ## Contributions
 
 ### Highlights
 
 - Coordinated and worked with the Frontend team
+- Developed UI components for Feed section on homepage, listing of expired and expiring soon items
+- Developed Sales Report UI page. List of all category
+- Form validation on Register and login page.
+- Resolved linter issues while rebasing `frontend` branch with `main`
 
 ### PantryNode
+
+| Type        | Link                          | Notes                                 |
+| ----------- | ----------------------------- | ------------------------------------- |
+| Code Review | ChicoState/PantryNode/pull/36 | React Boiler plate for the PantryNode |
 
 ### Timeline
 
