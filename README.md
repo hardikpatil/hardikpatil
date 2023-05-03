@@ -111,9 +111,6 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
   - CR - ChicoState/PantryNode/pull/140
   - DC - ChicoState/PantryNode/pull/140
   - CR - ChicoState/PantryNode/pull/153
-
-- Sprint #3-2 - Started April 17, 2023
-
   - CR - ChicoState/PantryNode/pull/164
   - CR - ChicoState/PantryNode/pull/154
   - CR - ChicoState/PantryNode/pull/167
