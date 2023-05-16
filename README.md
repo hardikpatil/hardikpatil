@@ -64,6 +64,8 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
   - DC - ChicoState/PantryNode/issues/26
   - CR - ChicoState/PantryNode/pull/36
   - DC - ChicoState/PantryNode/discussions/38#discussioncomment-5184946
+  - Spent most of the time on studying PantryNode codebase and React tutorial.
+
 - Sprint #2 - Started Mar 21st, 2023
 
   - CR - ChicoState/PantryNode/pull/74
@@ -113,16 +115,26 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
   - CR - ChicoState/PantryNode/pull/153
   - CR - ChicoState/PantryNode/pull/164
   - CR - ChicoState/PantryNode/pull/154
+
+- Sprint #4 - Started April 18th, 2023
+
   - CR - ChicoState/PantryNode/pull/167
   - CR - ChicoState/PantryNode/pull/180
-
-- Sprint #4 - Started April 25th, 2023
   - CR - ChicoState/PantryNode/pull/203
   - CR - ChicoState/PantryNode/pull/195
   - CR - ChicoState/PantryNode/pull/209
   - DC - ChicoState/PantryNode/pull/197
   - CR - ChicoState/PantryNode/pull/220
+
+- Sprint #5 - Started May 2nd, 2023
+
   - CR - ChicoState/PantryNode/pull/228
+  - CR - ChicoState/PantryNode/pull/229
+  - PR - ChicoState/PantryNode/pull/242
+  - CR - ChicoState/PantryNode/pull/243
+  - CO - ChicoState/PantryNode/pull/239/commits/bd27943700e693720f4fe1f6ff985a76f6f9c27c
+  - CR - ChicoState/PantryNode/pull/239
+  - DC - ChicoState/PantryNode/issues/238
 
 **Key:**
 
@@ -130,3 +142,4 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 - **CR** - CodeReview - I reviewed someone's change.
 - **BL** - BugLogging - I filed/created a GitHub Issue.
 - **DC** - Discussion - I started a discussion or discussed a topic relevant to the PR/Issue/Discussion
+- **CO** - Commit - I pushed code changes to an open PR.
