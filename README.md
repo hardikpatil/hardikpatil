@@ -57,7 +57,6 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 | Code Review               | ChicoState/PantryNode/pull/172       | Minor update to Frontend Readme                                 |
 | Code Review               | ChicoState/PantryNode/pull/180       | Setup authentication stacks                                     |
 | Discussion                | ChicoState/PantryNode/pull/197       | To verify email exists on Forgot password page                  |
-| Commit | https://github.com/ChicoState/PantryNode/pull/239/commits/bd27943700e693720f4fe1f6ff985a76f6f9c27c | Rebased with main  | 
 
 ### Timeline
 
