@@ -57,19 +57,20 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 | Code Review               | ChicoState/PantryNode/pull/172       | Minor update to Frontend Readme                                 |
 | Code Review               | ChicoState/PantryNode/pull/180       | Setup authentication stacks                                     |
 | Discussion                | ChicoState/PantryNode/pull/197       | To verify email exists on Forgot password page                  |
+| Commit | https://github.com/ChicoState/PantryNode/pull/239/commits/bd27943700e693720f4fe1f6ff985a76f6f9c27c | Rebased with main  | 
 
 ### Timeline
 
 - Sprint #1 - Started Feb 27th, 2023
   - DC - ChicoState/PantryNode/issues/26
   - CR - ChicoState/PantryNode/pull/36
-  - DC - ChicoState/PantryNode/discussions/38#discussioncomment-5184946
+  - DC - https://github.com/ChicoState/PantryNode/discussions/38#discussioncomment-5184946
   - Spent most of the time on studying PantryNode codebase and React tutorial.
 
 - Sprint #2 - Started Mar 21st, 2023
 
   - CR - ChicoState/PantryNode/pull/74
-  - DC - Chicostate/PantryNode/discussions/30#discussioncomment-5435746
+  - DC - https://github.com/Chicostate/PantryNode/discussions/30#discussioncomment-5435746
   - BL - ChicoState/PantryNode/issues/76
   - DC - ChicoState/PantryNode/issues/76
   - BL - ChicoState/PantryNode/issues/78
@@ -88,7 +89,7 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 
 - Sprint #3 - Started April 4th, 2023
 
-  - DC - ChicoState/PantryNode/discussions/94
+  - DC - https://github.com/ChicoState/PantryNode/discussions/94
   - BL - ChicoState/PantryNode/issues/95
   - CR - ChicoState/PantryNode/pull/96
   - PR - ChicoState/PantryNode/pull/93
