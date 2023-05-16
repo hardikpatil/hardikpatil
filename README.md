@@ -132,7 +132,7 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
   - CR - ChicoState/PantryNode/pull/229
   - PR - ChicoState/PantryNode/pull/242
   - CR - ChicoState/PantryNode/pull/243
-  - CO - ChicoState/PantryNode/pull/239/commits/bd27943700e693720f4fe1f6ff985a76f6f9c27c
+  - CO - https://github.com/ChicoState/PantryNode/pull/239/commits/bd27943700e693720f4fe1f6ff985a76f6f9c27c
   - CR - ChicoState/PantryNode/pull/239
   - DC - ChicoState/PantryNode/issues/238
 
